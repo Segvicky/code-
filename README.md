@@ -20,4 +20,4 @@ Import Speech recognition library
 Initializing recognizer class in order to recognize the speech. We are using google speech recognition.
 Audio file supports by speech recognition: wav, AIFF, AIFF-C, FLAC. I used ‘wav’ file in this example
 I have used speeches from movies in different format to carry out this project. 
-By default, google recognizer reads English. It supports different languages, for more details please check this documentation.
+By default, google recognizer reads English. It supports different languages, for more details please check the relevant documentation from their website.
